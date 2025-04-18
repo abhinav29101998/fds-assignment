@@ -5,5 +5,5 @@
   "performance_monitoring": {
     "enable_memory_monitor": true,
     "stats_collection_interval": 1000
-  }
+  } 
 }
